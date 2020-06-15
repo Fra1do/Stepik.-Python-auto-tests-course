@@ -1,2 +1,2 @@
 # Stepik.-Python-auto-tests-course
-selenium test python 
+my selenium python tests  
